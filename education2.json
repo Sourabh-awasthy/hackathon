@@ -1,16 +1,16 @@
 {
-  "name": "UNETE con Educación - Bridge the Gap (UNETE)",  
-  "description": "Empower students in Mexico! This NFT supports UNETE, providing technology and training for quality education in public schools.",
-  "image": "https://www.khushii.org/wp-content/uploads/2020/11/MASK-1.jpg",
+  "name": "Smile Bright - Support Education (Smile Foundation)",  
+  "description": "Empower a child's education! This NFT supports Smile Foundation, providing educational resources and opportunities for underprivileged children in India.",
+  "image": "https://www.smilefoundationindia.org/wp-content/uploads/2022/09/Banner1-scaled.jpg",
   
   "attributes": [
     {
       "trait_type": "Cause",
-      "value": "Educational Equity in Mexico (UNETE)"
+      "value": "Rural Education in India "
     },
     {
       "trait_type": "Impact",
-      "value": "Technology & Training for Public Schools"
+      "value": "Technology & Training for rural Schools"
     }
   ]
 }
