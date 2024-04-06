@@ -1,0 +1,15 @@
+{
+    "name": "Manipur Burns",
+    "description": "This is the fund for manipur riots",
+    "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/191835-cgivobteci-1688385091.jpg",
+    "attributes": [
+        {
+            "trait_type": "Education",
+            "value": "20000"
+        },
+        {
+            "trait_type": "Healthcare",
+            "value": "20000"
+        }
+    ]
+}
