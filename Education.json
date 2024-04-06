@@ -1,0 +1,16 @@
+{
+  "name": "UNETE con Educación - Bridge the Gap (UNETE)",  
+  "description": "Empower students in Mexico! This NFT supports UNETE, providing technology and training for quality education in public schools.",
+  "image": "https://www.psydeh.org/wp-content/uploads/2018/11/PSYDEH-Non-Profit-NGO-for-Women-in-Mexico-Our-Work-is-Needed-v002-compressor.jpg",
+  
+  "attributes": [
+    {
+      "trait_type": "Cause",
+      "value": "Educational Equity in Mexico (UNETE)"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Technology & Training for Public Schools"
+    }
+  ]
+}
