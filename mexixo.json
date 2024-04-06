@@ -1,0 +1,16 @@
+{
+  "name": "Agua para México - Water Relief NFT", 
+  "description": "Help fight water scarcity in Mexico! This NFT directly supports our relief fund, providing clean water access to communities in need.",
+  "image": "https://images.news18.com/ibnlive/uploads/2023/08/water-3-16924342293x2.png?impolicy=website&width=640&height=480",  
+  
+  "attributes": [
+    {
+      "trait_type": "Cause",
+      "value": "Mexico Water Scarcity"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Clean Water Access"
+    }
+  ]
+}
