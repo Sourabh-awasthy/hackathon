@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Beneficiary Age Group", 
-      "value": "Primary School"  // You can add other options like "Secondary School", "Early Childhood"
+      "value": "Primary School" ,
     },
     {
-      "trait_type": "Location",  // Optional - Consider regional focus (if applicable)
-      "value": "National"  // You can add specific regions Smile Foundation works in
+      "trait_type": "Location",  
+      "value": "National" 
     },
     {
-      "trait_type": "Education Focus",  // Optional - Highlight specific areas supported
-      "value": "Basic Literacy & Numeracy"  // You can add options like "Digital Literacy", "Vocational Skills"
+      "trait_type": "Education Focus",  
+      "value": "Basic Literacy & Numeracy",
     }
   ]
 }
