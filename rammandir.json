@@ -1,15 +1,39 @@
 {
-    "name": "Manipur Burns",
-    "description": "This is the fund for manipur riots",
-    "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/191835-cgivobteci-1688385091.jpg",
-    "attributes": [
-        {
-            "trait_type": "Education",
-            "value": "20000"
-        },
-        {
-            "trait_type": "Healthcare",
-            "value": "20000"
-        }
+  "title": "Support Gaza Strip Relief Fund",
+  "description": "A fundraising collection to support individuals and families affected by the recent invasion in the Gaza Strip. Your contributions will provide essential aid and support to those in need.",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Gaza Strip"
+    },
+    {
+      "trait_type": "Cause",
+      "value": "Humanitarian Relief"
+    },
+    {
+      "trait_type": "Goal",
+      "value": "To provide immediate relief and assistance to the affected population."
+    },
+    {
+      "trait_type": "Funds Allocation",
+      "value": "100% of funds will go directly to humanitarian aid, including food, shelter, medical supplies, and essential services."
+    },
+    {
+      "trait_type": "Transparency",
+      "value": "All transactions and fund allocations will be transparently recorded on the blockchain for accountability."
+    }
+  ],
+  "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/191835-cgivobteci-1688385091.jpg",
+  
+  "properties": {
+    "creator": "Your Organization or Fundraising Platform",
+    "created_at": "2024-04-07T00:00:00Z",
+    "license": "icense",
+    "tags": [
+      "Gaza",
+      "Relief Fund",
+      "Humanitarian Aid",
+      "Emergency Relief"
     ]
+  }
 }
