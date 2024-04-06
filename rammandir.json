@@ -1,0 +1,15 @@
+
+    "name": "Manipur Burns",
+    "description": "This is the fund for manipur riots",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "ABCD",
+            "value": "1000"
+        },
+        {
+            "trait_type": "onetwo",
+            "value": "200000"
+        }
+    ]
+}
