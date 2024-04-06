@@ -1,19 +1,19 @@
 {
   "name": "Conservation Guardians",
   "description": "Protect endangered species with these unique NFTs",
-  "image": "https://ipfs.io/path/to/your/nft_image.jpg",  // Replace with URL to your NFT image
+  "image": "https://cdn.mos.cms.futurecdn.net/3n8tRry6fYg7sNyhFDPQwR.jpg",  
   "attributes": [
     {
       "trait_type": "Species",
-      "value": "Giant Panda"  // You can add other species names here
+      "value": "Giant Panda"  
     },
     {
       "trait_type": "Habitat",
-      "value": "Bamboo Forest"  // You can add other habitat types here
+      "value": "Bamboo Forest" 
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"  // Consider adding "Common", "Uncommon" for variations
+      "value": "Rare" 
     }
   ]
 }
