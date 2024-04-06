@@ -1,15 +1,19 @@
 {
-    "name": "Manipur Burns",
-    "description": "This is the fund for manipur riots",
-    "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/191835-cgivobteci-1688385091.jpg",
-    "attributes": [
-        {
-            "trait_type": "Education",
-            "value": "20000"
-        },
-        {
-            "trait_type": "Healthcare",
-            "value": "20000"
-        }
-    ]
+  "name": "Conservation Guardians",
+  "description": "Protect endangered species with these unique NFTs",
+  "image": "https://ipfs.io/path/to/your/nft_image.jpg",  // Replace with URL to your NFT image
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Giant Panda"  // You can add other species names here
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Bamboo Forest"  // You can add other habitat types here
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"  // Consider adding "Common", "Uncommon" for variations
+    }
+  ]
 }
